@@ -1,3 +1,5 @@
 Agora eu to fazendo coisas sozinho
 agora to escrevendo outra coisa
 por algum motivo o meu cambio nao ta sindo guardado
+Listo, entendi. Para subir cosas a github tengo que hacer el push final.
+despues de hacer el push final, las cosas se cargan directo.
