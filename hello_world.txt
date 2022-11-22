@@ -3,3 +3,9 @@ agora to escrevendo outra coisa
 por algum motivo o meu cambio nao ta sindo guardado
 Listo, entendi. Para subir cosas a github tengo que hacer el push final.
 despues de hacer el push final, las cosas se cargan directo.
+
+Los comandos a usar son:
+
+git add "nombre de archivo"."tipo"
+git commit -m "texto para entender de que se trata la actualizacion"
+git push, para subir a github. de otra forma, solo queda local
